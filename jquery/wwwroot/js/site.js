@@ -8,7 +8,7 @@
 //hey wait for my document to load and then we can load my codes.
 
 $(document).ready(function () {
-    $('#panel1').hide();
+    $('#hide').hide();
 
 
 });
